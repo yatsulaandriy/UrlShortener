@@ -1,0 +1,12 @@
+C:\Users\yyatsuu\Desktop\UrlShortener\UrlShortener.Shared\bin\Debug\net6.0\UrlShortener.Shared.deps.json
+C:\Users\yyatsuu\Desktop\UrlShortener\UrlShortener.Shared\bin\Debug\net6.0\UrlShortener.Shared.dll
+C:\Users\yyatsuu\Desktop\UrlShortener\UrlShortener.Shared\bin\Debug\net6.0\UrlShortener.Shared.pdb
+C:\Users\yyatsuu\Desktop\UrlShortener\UrlShortener.Shared\obj\Debug\net6.0\UrlShortener.Shared.csproj.AssemblyReference.cache
+C:\Users\yyatsuu\Desktop\UrlShortener\UrlShortener.Shared\obj\Debug\net6.0\UrlShortener.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yyatsuu\Desktop\UrlShortener\UrlShortener.Shared\obj\Debug\net6.0\UrlShortener.Shared.AssemblyInfoInputs.cache
+C:\Users\yyatsuu\Desktop\UrlShortener\UrlShortener.Shared\obj\Debug\net6.0\UrlShortener.Shared.AssemblyInfo.cs
+C:\Users\yyatsuu\Desktop\UrlShortener\UrlShortener.Shared\obj\Debug\net6.0\UrlShortener.Shared.csproj.CoreCompileInputs.cache
+C:\Users\yyatsuu\Desktop\UrlShortener\UrlShortener.Shared\obj\Debug\net6.0\UrlShortener.Shared.dll
+C:\Users\yyatsuu\Desktop\UrlShortener\UrlShortener.Shared\obj\Debug\net6.0\refint\UrlShortener.Shared.dll
+C:\Users\yyatsuu\Desktop\UrlShortener\UrlShortener.Shared\obj\Debug\net6.0\UrlShortener.Shared.pdb
+C:\Users\yyatsuu\Desktop\UrlShortener\UrlShortener.Shared\obj\Debug\net6.0\ref\UrlShortener.Shared.dll
