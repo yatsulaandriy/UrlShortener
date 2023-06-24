@@ -1,0 +1,21 @@
+﻿@model UrlShortener.Shared.Dto.Authentication.SigningInDto
+
+<h2>Sign in</h2>
+
+@using (Html.BeginForm("SignIn", "Authentication", FormMethod.Post))
+{
+  <div>
+    @Html.LabelFor(model => model.NickName)
+    @Html.TextBoxFor(model => model.NickName, new { required = "required" })
+  </div>
+
+  <div>
+    @Html.LabelFor(model => model.Password)
+    @Html.TextBoxFor(model => model.Password, new { required = "required", type = "password" })
+  </div>
+        
+  <button type = "submit">
+    Sign In
+  </button>
+}
+
